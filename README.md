@@ -1,6 +1,8 @@
 # zotero-synology
 Documenting my process of getting my Synology DS418 to be a WebDAV server for Zotero so I don't need to pay $120/year
 
+**Work in Progress, check [Issues](https://github.com/ryanamannion/zotero-synology/issues) page**
+
 
 ## Helpful Links
 
