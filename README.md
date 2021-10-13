@@ -6,6 +6,6 @@ Documenting my process of getting my Synology DS418 to be a WebDAV server for Zo
 
 https://forums.zotero.org/discussion/76669/storing-zotero-data-on-synology-nas
 
-https://www.zotero.org/support/kb/ssl_certificate_error
+https://www.zotero.org/support/kb/incomplete_cert_chain
 
 https://www.zotero.org/support/sync
