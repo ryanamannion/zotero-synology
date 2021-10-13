@@ -4,6 +4,8 @@ Documenting my process of getting my Synology DS418 to be a WebDAV server for Zo
 
 ## Helpful Links
 
+https://kb.synology.com/en-global/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV
+
 https://forums.zotero.org/discussion/76669/storing-zotero-data-on-synology-nas
 
 https://www.zotero.org/support/kb/incomplete_cert_chain
